@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.recipe-title {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(53, 37, 37);
+}
+
+h2 {
+    text-align: left;
+    font-size: 27px;
+    color: rgb(53, 37, 37);
+}
+
+p,li {
+    font-size: 19px; 
+}
+
+li {
+    color: rgb(54, 30, 30);
+}
