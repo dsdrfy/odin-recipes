@@ -12,3 +12,7 @@ Well, practically everything that was covered by the curriculum
 from its beginning to this project lesson, i.e.
 - Basic **HTML Elements**.
 - Basic **Git Workflow**.
+
+*(EDIT: 29/10/2023)*
+I learned also 
+**Basic CSS Rules, CSS Properties and CSS Specificity**.
